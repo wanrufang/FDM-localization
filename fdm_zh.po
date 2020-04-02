@@ -26,7 +26,7 @@ msgstr "未找到Flash视频。尝试重新载入此页面。"
 #, qt-format
 msgctxt "Download|"
 msgid "Specified folder path is relative, full path is %1"
-msgstr ""
+msgstr "指定的是相对路径，完整路径是%1"
 
 #, qt-format
 msgctxt "Download|"
@@ -46,7 +46,7 @@ msgstr ""
 #, qt-format
 msgctxt "Download|"
 msgid "Reconnecting in %1 seconds"
-msgstr ""
+msgstr "%1秒后重连"
 
 #, qt-format
 msgctxt "Download|"
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "Download|"
 msgid "Queued: Snail mode is on. Turn it off to continue"
-msgstr ""
+msgstr "蜗牛模式已启动，关闭后继续"
 
 #, fuzzy
 msgctxt "Download|"
@@ -102,7 +102,7 @@ msgstr "HTTP错误%1：%2"
 #, qt-format
 msgctxt "HttpError|"
 msgid "HTTP Error %1"
-msgstr ""
+msgstr "HTTP错误%1"
 
 msgctxt "HttpError|"
 msgid "Unknown error"
@@ -423,7 +423,7 @@ msgstr "连接%1已关闭"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to complete the download"
-msgstr ""
+msgstr "下载失败"
 
 msgctxt "HttpFileDownload|"
 msgid "Unexpected error"
@@ -432,7 +432,7 @@ msgstr "意外错误"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Couldn't reuse connection #%1, closing"
-msgstr ""
+msgstr "无法重复使用链接#%1，正在关闭"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -703,7 +703,7 @@ msgstr "无法访问特定文件夹"
 
 msgctxt "QObject|"
 msgid "Confirm"
-msgstr ""
+msgstr "确认"
 
 #, fuzzy
 msgctxt "QObject|"
@@ -712,7 +712,7 @@ msgstr "注意！"
 
 msgctxt "QObject|"
 msgid "Your computer will be put to Sleep mode."
-msgstr ""
+msgstr "你的电脑将进入睡眠模式"
 
 #, fuzzy
 msgctxt "QObject|"
@@ -721,7 +721,7 @@ msgstr "你的计算机将进行休眠。"
 
 msgctxt "QObject|"
 msgid "Your computer will be shut down."
-msgstr ""
+msgstr "你的计算机将关闭"
 
 #, fuzzy
 msgctxt "QObject|"
@@ -735,7 +735,7 @@ msgstr "文件丢失"
 
 msgctxt "QObject|"
 msgid "Incorrect login or password"
-msgstr ""
+msgstr "用户名或密码错误"
 
 msgctxt "RPCLocalization|"
 msgid "locale"
@@ -1424,7 +1424,7 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Automatically remove deleted files from download list"
-msgstr ""
+msgstr "自动从下载列表移除已删除的文件"
 
 msgctxt "RPCLocalization|"
 msgid "Start download"
@@ -1436,7 +1436,7 @@ msgstr "做种中"
 
 msgctxt "RPCLocalization|"
 msgid "Use server time for file creation"
-msgstr ""
+msgstr "创建文件使用服务器时间"
 
 msgctxt "RPCLocalization|"
 msgid "Set days of the week to enable Scheduler"
@@ -1444,7 +1444,7 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Enter URL or choose torrent file"
-msgstr ""
+msgstr "输入URL或选择种子文件"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -1453,7 +1453,7 @@ msgstr "新的文件"
 
 msgctxt "RPCLocalization|"
 msgid "New files"
-msgstr ""
+msgstr "新的文件"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -1463,11 +1463,11 @@ msgstr "新的视频"
 #, fuzzy
 msgctxt "RPCLocalization|"
 msgid "New torrent"
-msgstr "新的洪流"
+msgstr "新的种子"
 
 msgctxt "RPCLocalization|"
 msgid "Save to"
-msgstr ""
+msgstr "保存到"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -1476,51 +1476,51 @@ msgstr "文件名"
 
 msgctxt "RPCLocalization|"
 msgid "Create subfolder"
-msgstr ""
+msgstr "创建子文件夹"
 
 msgctxt "RPCLocalization|"
 msgid "Torrent contents"
-msgstr ""
+msgstr "种子内容"
 
 msgctxt "RPCLocalization|"
 msgid "Authentication required:"
-msgstr ""
+msgstr "需要认证"
 
 msgctxt "RPCLocalization|"
 msgid "Enter new URL"
-msgstr ""
+msgstr "输入新URL"
 
 msgctxt "RPCLocalization|"
 msgid "File location"
-msgstr ""
+msgstr "文件位置"
 
 msgctxt "RPCLocalization|"
 msgid "Download links"
-msgstr ""
+msgstr "下载链接"
 
 msgctxt "RPCLocalization|"
 msgid "Restore default settings?"
-msgstr ""
+msgstr "恢复默认设置"
 
 msgctxt "RPCLocalization|"
 msgid "Default settings"
-msgstr ""
+msgstr "默认设置"
 
 msgctxt "RPCLocalization|"
 msgid "Found incomplete download with same name and size."
-msgstr ""
+msgstr "发现同样文件名同样大小的未完成的下载"
 
 msgctxt "RPCLocalization|"
 msgid "Would you like to start new or resume downloading?"
-msgstr ""
+msgstr "开始新下载还是恢复下载?"
 
 msgctxt "RPCLocalization|"
 msgid "Start new"
-msgstr ""
+msgstr "开始新下载"
 
 msgctxt "RPCLocalization|"
 msgid "Resume"
-msgstr ""
+msgstr "恢复"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
